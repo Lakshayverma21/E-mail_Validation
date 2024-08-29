@@ -33,6 +33,7 @@ if (len(email) >= 6):
 
                 if (k == 1) or (j == 1) or (d == 1):
                     print("Your E-mail Address is not valid ---> Condition 5")
+                    
                 else:
                     print("Your E-mail Address is valid")
 
